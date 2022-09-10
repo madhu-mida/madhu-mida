@@ -19,6 +19,6 @@ Git, GitHub, Heroku, Command Line, Slack, Trello
 Object Oriented Programming, MVC, Responsive Design, Authentication, Agile/Scrum
 
 
-[Click Here](https://www.linkedin.com/in/madhumida-sanjeeviraj/) to view my Linkedin profile.
+[Linkedin](https://www.linkedin.com/in/madhumida-sanjeeviraj/) 
 
 
