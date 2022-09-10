@@ -1,21 +1,24 @@
 ### Hi there 👋
 
-## I am a Software-Engineer with 3+ years of experience dedicated to solving real-world problems with creative solutions. Compassionate by nature and driven to create user-focused websites. Technically proficient and analytical problem solver with a focused demeanor.
+I am a Software-Engineer with 3+ years of experience dedicated to solving real-world problems with creative solutions. Compassionate by nature and driven to create user-focused websites. Technically proficient and analytical problem solver with a focused demeanor.
 
-Languages & Databases: JavaScript, Java, HTML, CSS, MyS
+## Languages & Databases
 
-<!--
-**madhu-mida/madhu-mida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript, Java, HTML, CSS, MySQL, MongoDB, Mongoose
 
-Here are some ideas to get you started:
+## Frameworks 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js, Node, Express, jQuery, AJAX, Bootstrap, Spring Boot
+
+## Management & Deployment
+
+Git, GitHub, Heroku, Command Line, Slack, Trello
+
+## Methodologies
+
+Object Oriented Programming, MVC, Responsive Design, Authentication, Agile/Scrum
+
+
+[Click Here](https://www.linkedin.com/in/madhumida-sanjeeviraj/) to view my Linkedin profile.
+
 
