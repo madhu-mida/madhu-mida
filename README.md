@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am a Software-Engineer with 3+ years of experience dedicated to solving real-world problems with creative solutions. Compassionate by nature and driven to create user-focused websites. Technically proficient and analytical problem solver with a focused demeanor.
+
+Languages & Databases: JavaScript, Java, HTML, CSS, MyS
+
 <!--
 **madhu-mida/madhu-mida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
