@@ -33,5 +33,11 @@ Auth0 integration for user login and signups
 Built APIs for user, cart & order management
 Technologies Used: ReactJs, Redux, Express.js, Node.js, HTML, CSS, Bootstrap, MongoDB, Mongoose, Auth0
 
-
 [Midaz-E-Commerce Website](https://dashing-narwhal-387b3f.netlify.app/)
+
+### Midz-Calendar
+React Native Application to create and manage tasks
+Re-designed and transformed an earlier implementation of a mobile web calendar
+Reused entity relationships and models, to expose RESTful webservices in Express 
+Developed multiple screens using a Stack Navigator, and used XCode simulator to run unit tests
+Technologies Used: React Native, Express.js, HTML, CSS, MongoDB, Mongoose
