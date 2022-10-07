@@ -4,11 +4,11 @@ I am a Software-Engineer with 4.5 years of experience dedicated to solving real-
 
 ### Languages & Databases
 
-JavaScript, Java, HTML, CSS, MySQL, MongoDB, Mongoose
+JavaScript, HTML, CSS, MySQL, MongoDB, Mongoose
 
 ### Frameworks 
 
-React.js, Node, Express, jQuery, AJAX, Bootstrap, Spring Boot
+React.js, React Native, Node, Express, jQuery, AJAX, Bootstrap, Spring Boot
 
 ### Management & Deployment
 
