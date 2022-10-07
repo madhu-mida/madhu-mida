@@ -34,6 +34,7 @@ Built APIs for user, cart & order management
 Technologies Used: ReactJs, Redux, Express.js, Node.js, HTML, CSS, Bootstrap, MongoDB, Mongoose, Auth0
 
 [Click Here](https://dashing-narwhal-387b3f.netlify.app/) to see the deployed app
+
 [Github](https://github.com/madhu-mida/midaz-ecommerce-frontend)
 
 
@@ -45,4 +46,5 @@ Developed multiple screens using a Stack Navigator, and used XCode simulator to 
 Technologies Used: React Native, Express.js, HTML, CSS, MongoDB, Mongoose
 
 [Click Here](https://expo.dev/@madhumida/rn-calendar-todo?serviceType=classic&distribution=expo-go) to see the deployed app
+
 [Github](https://github.com/madhu-mida/react-native-calendar-todo)
