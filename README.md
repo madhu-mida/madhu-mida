@@ -25,13 +25,14 @@ Object Oriented Programming, MVC, Responsive Design, Authentication, Agile/Scrum
 
 #### Midaz-E-Commerce Website
 
-Full-stack E-Commerce Web Application with RESTful web services
-Full fledged eCommerce SPA, with complete purchase path
-Browse & Search path with product categories, text search, PLPs & PDP
-Redux Toolkit to store and maintain persistent user state
-Auth0 integration for user login and signups
-Built APIs for user, cart & order management
-Technologies Used: ReactJs, Redux, Express.js, Node.js, HTML, CSS, Bootstrap, MongoDB, Mongoose, Auth0
+- Full-stack E-Commerce Web Application with RESTful web services
+- Full fledged eCommerce SPA, with complete purchase path
+- Browse & Search path with product categories, text search, PLPs & PDP
+- Redux Toolkit to store and maintain persistent user state
+- Auth0 integration for user login and signups
+- Built APIs for user, cart & order management
+
+##### Technologies Used: ReactJs, Redux, Express.js, Node.js, HTML, CSS, Bootstrap, MongoDB, Mongoose, Auth0
 
 [Click Here](https://dashing-narwhal-387b3f.netlify.app/) to see the deployed app
 
@@ -39,11 +40,12 @@ Technologies Used: ReactJs, Redux, Express.js, Node.js, HTML, CSS, Bootstrap, Mo
 
 
 ### Midz-Calendar
-React Native Application to create and manage tasks
-Re-designed and transformed an earlier implementation of a mobile web calendar
-Reused entity relationships and models, to expose RESTful webservices in Express 
-Developed multiple screens using a Stack Navigator, and used XCode simulator to run unit tests
-Technologies Used: React Native, Express.js, HTML, CSS, MongoDB, Mongoose
+- React Native Application to create and manage tasks
+- Re-designed and transformed an earlier implementation of a mobile web calendar
+- Reused entity relationships and models, to expose RESTful webservices in Express 
+- Developed multiple screens using a Stack Navigator, and used XCode simulator to run unit tests
+
+##### Technologies Used: React Native, Express.js, HTML, CSS, MongoDB, Mongoose
 
 [Click Here](https://expo.dev/@madhumida/rn-calendar-todo?serviceType=classic&distribution=expo-go) to see the deployed app
 
