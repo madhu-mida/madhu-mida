@@ -45,10 +45,6 @@ Reused entity relationships and models, to expose RESTful webservices in Express
 Developed multiple screens using a Stack Navigator, and used XCode simulator to run unit tests
 Technologies Used: React Native, Express.js, HTML, CSS, MongoDB, Mongoose
 
-### Home Page
-
-![Screenshot](Home.png)
-
 [Click Here](https://expo.dev/@madhumida/rn-calendar-todo?serviceType=classic&distribution=expo-go) to see the deployed app
 
 [Github](https://github.com/madhu-mida/react-native-calendar-todo)
