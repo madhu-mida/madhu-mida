@@ -8,7 +8,7 @@ JavaScript, Java, HTML, CSS, MySQL, MongoDB
 
 ### Frameworks 
 
-ReactJs, React Native, Node, Express, Mongoose,  jQuery, AJAX, Bootstrap, Spring Boot
+ReactJs, React Native, Node, Express, Mongoose,  jQuery, AJAX, Spring Boot, Bootstrap, Material UI
 
 ### Management & Deployment
 
